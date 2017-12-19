@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Prime number"; ObjectID = "1wR-n4-Itr"; */
+"1wR-n4-Itr.text" = "Primtal";
+
+/* Class = "UITextField"; placeholder = "Insert a number."; ObjectID = "aau-d4-tma"; */
+"aau-d4-tma.placeholder" = "Indtast et tal.";
+
+/* Class = "UIButton"; normalTitle = "Is it prime?"; ObjectID = "tCS-vw-ge4"; */
+"tCS-vw-ge4.normalTitle" = "Er det et primtal?";
+

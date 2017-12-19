@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Primtal
+
+  Created by Thomas Kirk on 16/12/2017.
+  Copyright © 2017 OneKirk. All rights reserved.
+*/
+
+"Not prime" = " is not prime!";
+"Is prime" = " is prime!";
+"Invalid input" = "Please insert a whole, positive number!";

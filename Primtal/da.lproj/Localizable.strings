@@ -6,6 +6,6 @@
   Copyright © 2017 OneKirk. All rights reserved.
 */
 
-"Not prime" = " er ikke et primtal!";
-"Is prime" = " er et primtal!";
+"Not prime" = " er ikke et primtal.";
+"Is prime" = " er et primtal.";
 "Invalid input" = "Indtast et positivt, helt tal!";
